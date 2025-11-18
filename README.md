@@ -71,53 +71,5 @@ Your Movie → AI Analysis → Similar Movies
 └── 📋 tmdb_5000_credits.csv # Cast & crew data
 ```
 
-## 🎨 Screenshots
 
-**Main Interface:**
-- Clean movie selection dropdown
-- Beautiful gradient button
-- Instant recommendations
 
-**Results:**
-- Colorful movie cards
-- Easy-to-read layout
-- Sidebar with helpful info
-
-## 🔮 Future Ideas
-
-- [ ] 🖼️ Movie posters from API
-- [ ] ⭐ User rating system
-- [ ] 🎛️ Filter by genre/year
-- [ ] 📱 Mobile app version
-- [ ] 🎬 Movie trailers
-
-## 💡 Tips
-
-**Get better recommendations:**
-- Try popular movies first
-- Explore different genres
-- Check the sidebar for stats
-- Use the search in dropdown
-
-## 🤝 Contributing
-
-Found a bug? Have an idea? 
-- 🐛 Open an issue
-- 🔧 Submit a pull request
-- ⭐ Star this repo
-
-## 📜 License
-
-MIT License - feel free to use and modify!
-
----
-
-<div align="center">
-
-**🎬 Made with ❤️ for movie lovers**
-
-*Discover your next favorite film today!*
-
-⭐ **Star this repo if it helped you find great movies!** ⭐
-
-</div>
